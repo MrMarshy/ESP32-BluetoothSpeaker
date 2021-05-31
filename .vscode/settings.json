@@ -1,0 +1,6 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "bt_app_core.h": "c"
+    }
+}
